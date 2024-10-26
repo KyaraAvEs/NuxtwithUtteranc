@@ -1,0 +1,10 @@
+{
+    "name": "Lee Unkrich",
+    "country": "Estados Unidos",
+    "birthdate": "8 de agosto de 1967",
+    "image": "directors/lee-unkrich.jpg",
+    "slug": "lee-unkrich",
+    "movies": [
+      { "name": "Coco", "slug": "coco" }
+    ]
+  }

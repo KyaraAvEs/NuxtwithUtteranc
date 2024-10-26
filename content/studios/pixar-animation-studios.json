@@ -1,0 +1,14 @@
+{
+    "name": "Pixar Animation Studios",
+    "country": "Estados Unidos",
+    "founded_year": 1986,
+    "image": "studio/pixar.jpg",
+    "slug": "pixar-animation-studios",
+    "movies": [
+      { "name": "Toy Story", "slug": "toy-story" },
+      { "name": "Up", "slug": "up" },
+      { "name": "Coco", "slug": "coco" },
+      { "name": "Wall-E", "slug": "wall-e" },
+      { "name": "Buscando a Nemo", "slug": "buscando-a-nemo" }
+    ]
+  }

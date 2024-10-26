@@ -1,0 +1,10 @@
+{
+    "name": "Dean DeBlois",
+    "country": "Canadá",
+    "birthdate": "7 de junio de 1970",
+    "image": "directors/dean-deblois.jpg",
+    "slug": "dean-deblois",
+    "movies": [
+      { "name": "Cómo entrenar a tu dragón", "slug": "como-entrenar-a-tu-dragon" }
+    ]
+  }

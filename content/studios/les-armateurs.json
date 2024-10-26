@@ -1,0 +1,10 @@
+{
+    "name": "Les Armateurs",
+    "country": "Francia",
+    "founded_year": 1994,
+    "image": "studio/les-armateurs.jpg",
+    "slug": "les-armateurs",
+    "movies": [
+      { "name": "Las trillizas de Belleville", "slug": "las-trillizas-de-belleville" }
+    ]
+  }

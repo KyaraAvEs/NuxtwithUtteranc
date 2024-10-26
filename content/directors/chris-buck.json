@@ -1,0 +1,10 @@
+{
+    "name": "Chris Buck",
+    "country": "Estados Unidos",
+    "birthdate": "24 de febrero de 1958",
+    "image": "directors/chris-buck.jpg",
+    "slug": "chris-buck",
+    "movies": [
+      { "name": "Frozen", "slug": "frozen" }
+    ]
+  }

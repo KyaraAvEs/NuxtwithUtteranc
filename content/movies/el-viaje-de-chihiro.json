@@ -1,0 +1,18 @@
+{
+  "title": "El viaje de Chihiro",
+  "release_year": 2001,
+  "description": "Chihiro, una niña de 10 años, descubre un misterioso mundo de dioses, brujas y espíritus mientras intenta salvar a sus padres, transformados en cerdos.",
+  "duration": "125 minutos",
+  "genre": "Fantasía",
+  "rating": "9.0/10",
+  "image": "movies/el-viaje-de-chihiro.jpg",
+  "slug": "el-viaje-de-chihiro",
+  "studio": {
+    "name": "Studio Ghibli",
+    "slug": "studio-ghibli"
+  },
+  "director": {
+    "name": "Hayao Miyazaki",
+    "slug": "hayao-miyazaki"
+  }
+}

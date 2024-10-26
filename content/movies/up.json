@@ -1,0 +1,18 @@
+{
+  "title": "Up",
+  "release_year": 2009,
+  "description": "Un anciano viudo viaja con su casa flotante a Sudamérica junto a un niño explorador, viviendo una aventura inesperada.",
+  "duration": "96 minutos",
+  "genre": "Aventura/Fantasía",
+  "rating": "8.2/10",
+  "image": "movies/up.jpg",
+  "slug": "up",
+  "studio": {
+    "name": "Pixar Animation Studios",
+    "slug": "pixar-animation-studios"
+  },
+  "director": {
+    "name": "Pete Docter",
+    "slug": "pete-docter"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Andrew Stanton",
+    "country": "Estados Unidos",
+    "birthdate": "3 de diciembre de 1965",
+    "image": "directors/andrew-stanton.jpg",
+    "slug": "andrew-stanton",
+    "movies": [
+      { "name": "Wall-E", "slug": "wall-e" },
+      { "name": "Buscando a Nemo", "slug": "buscando-a-nemo" }
+    ]
+  }

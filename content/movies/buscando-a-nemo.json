@@ -1,0 +1,18 @@
+{
+  "title": "Buscando a Nemo",
+  "release_year": 2003,
+  "description": "Marlin, un pez payaso sobreprotector, se embarca en una aventura para encontrar a su hijo Nemo, que ha sido capturado por un buzo.",
+  "duration": "100 minutos",
+  "genre": "Aventura/Familia",
+  "rating": "8.1/10",
+  "image": "movies/buscando-a-nemo.jpg",
+  "slug": "buscando-a-nemo",
+  "studio": {
+    "name": "Pixar Animation Studios",
+    "slug": "pixar-animation-studios"
+  },
+  "director": {
+    "name": "Andrew Stanton",
+    "slug": "andrew-stanton"
+  }
+}

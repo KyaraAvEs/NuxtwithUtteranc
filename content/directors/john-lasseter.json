@@ -1,0 +1,10 @@
+{
+    "name": "John Lasseter",
+    "country": "Estados Unidos",
+    "birthdate": "12 de enero de 1957",
+    "image": "directors/john-lasseter.jpg",
+    "slug": "john-lasseter",
+    "movies": [
+      { "name": "Toy Story", "slug": "toy-story" }
+    ]
+  }

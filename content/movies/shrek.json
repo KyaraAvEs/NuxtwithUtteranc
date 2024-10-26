@@ -1,0 +1,18 @@
+{
+  "title": "Shrek",
+  "release_year": 2001,
+  "description": "Shrek, un ogro solitario, emprende una misión para rescatar a una princesa, pero descubre el valor de la amistad y el amor.",
+  "duration": "90 minutos",
+  "genre": "Comedia/Aventura",
+  "rating": "7.9/10",
+  "image": "movies/shrek.jpg",
+  "slug": "shrek",
+  "studio": {
+    "name": "DreamWorks Animation",
+    "slug": "dreamworks-animation-llc"
+  },
+  "director": {
+    "name": "Vicky Jenson",
+    "slug": "vicky-jenson"
+  }
+}

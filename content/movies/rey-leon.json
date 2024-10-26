@@ -1,0 +1,18 @@
+{
+  "title": "Rey León",
+  "release_year": 1994,
+  "description": "Simba, un joven león, debe enfrentarse a su destino como rey de la sabana tras la muerte de su padre.",
+  "duration": "88 minutos",
+  "genre": "Drama/Familia",
+  "rating": "8.5/10",
+  "image": "movies/rey-leon.jpg",
+  "slug": "rey-leon",
+  "studio": {
+    "name": "Walt Disney Animation Studios",
+    "slug": "walt-disney-animation-studios"
+  },
+  "director": {
+    "name": "Roger Allers",
+    "slug": "roger-allers"
+  }
+}

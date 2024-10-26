@@ -1,0 +1,10 @@
+{
+    "name": "Hayao Miyazaki",
+    "country": "Japón",
+    "birthdate": "5 de enero de 1941",
+    "image": "directors/hayao-miyazaki.jpg",
+    "slug": "hayao-miyazaki",
+    "movies": [
+      { "name": "El viaje de Chihiro", "slug": "el-viaje-de-chihiro" }
+    ]
+  }

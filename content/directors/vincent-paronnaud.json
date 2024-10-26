@@ -1,0 +1,10 @@
+{
+    "name": "Vincent Paronnaud",
+    "country": "Francia",
+    "birthdate": "1970",
+    "image": "directors/vincent-paronnaud.jpg",
+    "slug": "vincent-paronnaud",
+    "movies": [
+      { "name": "Persepolis", "slug": "persepolis" }
+    ]
+  }

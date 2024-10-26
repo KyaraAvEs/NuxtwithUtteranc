@@ -1,0 +1,10 @@
+{
+    "name": "Pete Docter",
+    "country": "Estados Unidos",
+    "birthdate": "9 de octubre de 1968",
+    "image": "directors/pete-docter.jpg",
+    "slug": "pete-docter",
+    "movies": [
+      { "name": "Up", "slug": "up" }
+    ]
+  }

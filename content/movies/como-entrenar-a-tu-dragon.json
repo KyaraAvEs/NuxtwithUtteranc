@@ -1,0 +1,18 @@
+{
+  "title": "Cómo entrenar a tu dragón",
+  "release_year": 2010,
+  "description": "Hipo, un joven vikingo, desafía las creencias de su pueblo al formar una amistad con un dragón herido llamado Chimuelo.",
+  "duration": "98 minutos",
+  "genre": "Aventura/Fantasía",
+  "rating": "8.1/10",
+  "image": "movies/como-entrenar-a-tu-dragon.jpg",
+  "slug": "como-entrenar-a-tu-dragon",
+  "studio": {
+    "name": "DreamWorks Animation",
+    "slug": "dreamworks-animation-llc"
+  },
+  "director": {
+    "name": "Dean DeBlois",
+    "slug": "dean-deblois"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Frozen",
+  "release_year": 2013,
+  "description": "Anna y Kristoff emprenden una aventura para encontrar a Elsa, la hermana de Anna, cuyos poderes helados han atrapado al reino en un invierno eterno.",
+  "duration": "102 minutos",
+  "genre": "Musical/Fantasía",
+  "rating": "7.4/10",
+  "image": "movies/frozen.jpg",
+  "slug": "frozen",
+  "studio": {
+    "name": "Walt Disney Animation Studios",
+    "slug": "walt-disney-animation-studios"
+  },
+  "director": {
+    "name": "Chris Buck",
+    "slug": "chris-buck"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Walt Disney Animation Studios",
+    "country": "Estados Unidos",
+    "founded_year": 1923,
+    "image": "studio/walt-disney.jpg",
+    "slug": "walt-disney-animation-studios",
+    "movies": [
+      { "name": "Rey León", "slug": "rey-leon" },
+      { "name": "Frozen", "slug": "frozen" }
+    ]
+  }

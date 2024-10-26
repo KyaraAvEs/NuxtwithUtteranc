@@ -1,0 +1,18 @@
+{
+  "title": "Persepolis",
+  "release_year": 2007,
+  "description": "Basada en la novela gráfica autobiográfica de Marjane Satrapi, la película narra su infancia en Irán durante y después de la Revolución Islámica, mostrando su lucha por la identidad y libertad.",
+  "duration": "96 minutos",
+  "genre": "Drama/Histórico",
+  "rating": "8.0/10",
+  "image": "movies/persepolis.jpg",
+  "slug": "persepolis",
+  "studio": {
+    "name": "2.4.7 Films",
+    "slug": "247-films"
+  },
+  "director": {
+    "name": "Vincent Paronnaud",
+    "slug": "vincent-paronnaud"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "DreamWorks Animation LLC",
+    "country": "Estados Unidos",
+    "founded_year": 1994,
+    "image": "studio/dreamworks.jpg",
+    "slug": "dreamworks-animation-llc",
+    "movies": [
+      { "name": "Shrek", "slug": "shrek" },
+      { "name": "Cómo entrenar a tu dragón", "slug": "como-entrenar-a-tu-dragon" }
+    ]
+  }

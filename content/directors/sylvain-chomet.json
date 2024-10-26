@@ -1,0 +1,10 @@
+{
+    "name": "Sylvain Chomet",
+    "country": "Francia",
+    "birthdate": "10 de noviembre de 1963",
+    "image": "directors/sylvain-chomet.jpg",
+    "slug": "sylvain-chomet",
+    "movies": [
+      { "name": "Las trillizas de Belleville", "slug": "las-trillizas-de-belleville" }
+    ]
+  }

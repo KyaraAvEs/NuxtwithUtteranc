@@ -1,0 +1,10 @@
+{
+    "name": "Roger Allers",
+    "country": "Estados Unidos",
+    "birthdate": "29 de junio de 1949",
+    "image": "directors/roger-allers.jpg",
+    "slug": "roger-allers",
+    "movies": [
+      { "name": "Rey León", "slug": "rey-leon" }
+    ]
+  }

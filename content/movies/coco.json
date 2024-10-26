@@ -1,0 +1,18 @@
+{
+  "title": "Coco",
+  "release_year": 2017,
+  "description": "Miguel, un niño con el sueño de convertirse en músico, viaja accidentalmente al mundo de los muertos y descubre la historia de su familia.",
+  "duration": "105 minutos",
+  "genre": "Musical/Fantasía",
+  "rating": "8.4/10",
+  "image": "movies/coco.jpg",
+  "slug": "coco",
+  "studio": {
+    "name": "Pixar Animation Studios",
+    "slug": "pixar-animation-studios"
+  },
+  "director": {
+    "name": "Lee Unkrich",
+    "slug": "lee-unkrich"
+  }
+}

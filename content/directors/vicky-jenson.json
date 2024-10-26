@@ -1,0 +1,10 @@
+{
+    "name": "Vicky Jenson",
+    "country": "Estados Unidos",
+    "birthdate": "4 de marzo de 1960",
+    "image": "directors/vicky-jenson.jpg",
+    "slug": "vicky-jenson",
+    "movies": [
+      { "name": "Shrek", "slug": "shrek" }
+    ]
+  }

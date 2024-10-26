@@ -1,0 +1,10 @@
+{
+    "name": "2.4.7. Films",
+    "country": "Francia",
+    "founded_year": 2000,
+    "image": "studio/247-films.jpg",
+    "slug": "247-films",
+    "movies": [
+      { "name": "Persepolis", "slug": "persepolis" }
+    ]
+  }

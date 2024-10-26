@@ -1,0 +1,18 @@
+{
+  "title": "Toy Story",
+  "release_year": 1995,
+  "description": "Woody, un vaquero de juguete, lidera a otros juguetes mientras enfrentan la llegada de un nuevo y moderno juguete, Buzz Lightyear.",
+  "duration": "81 minutos",
+  "genre": "Aventura/Comedia",
+  "rating": "8.3/10",
+  "image": "movies/toy-story.jpg",
+  "slug": "toy-story",
+  "studio": {
+    "name": "Pixar Animation Studios",
+    "slug": "pixar-animation-studios"
+  },
+  "director": {
+    "name": "John Lasseter",
+    "slug": "john-lasseter"
+  }
+}

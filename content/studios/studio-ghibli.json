@@ -1,0 +1,10 @@
+{
+    "name": "Studio Ghibli",
+    "country": "Japón",
+    "founded_year": 1985,
+    "image": "studio/studio-ghibli.jpg",
+    "slug": "studio-ghibli",
+    "movies": [
+      { "name": "El viaje de Chihiro", "slug": "el-viaje-de-chihiro" }
+    ]
+  }

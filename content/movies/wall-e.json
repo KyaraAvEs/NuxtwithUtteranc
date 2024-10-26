@@ -1,0 +1,18 @@
+{
+  "title": "Wall-E",
+  "release_year": 2008,
+  "description": "En un futuro distópico, un robot recolector de basura llamado WALL-E descubre el amor y una misión para salvar la Tierra.",
+  "duration": "98 minutos",
+  "genre": "Ciencia Ficción/Fantasía",
+  "rating": "8.4/10",
+  "image": "movies/wall-e.jpg",
+  "slug": "wall-e",
+  "studio": {
+    "name": "Pixar Animation Studios",
+    "slug": "pixar-animation-studios"
+  },
+  "director": {
+    "name": "Andrew Stanton",
+    "slug": "andrew-stanton"
+  }
+}
