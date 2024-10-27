@@ -8,6 +8,16 @@ export default {
   async asyncData({ $content, params }) {
     const studio = await $content('studios', params.slug).fetch();
     return { studio };  // Devolvemos el objeto 'studio'
+  },
+  mounted() {
+    const script = document.createElement('script');
+    script.src = "https://utteranc.es/client.js";
+    script.setAttribute('repo', "KyaraAvEs/NuxtwithUtteranc");
+    script.setAttribute('issue-term', "pathname");
+    script.setAttribute('theme', "github-dark");
+    script.setAttribute('crossorigin', "anonymous");
+    script.async = true;
+    document.getElementById('comments-section').appendChild(script); // Agrega el script al DOM
   }
 };
 </script>
@@ -31,7 +41,17 @@ export default {
         </div>
       </div>
     </div>
+     <!-- Sección de comentarios -->
+     <div id="comments-section" class="comments-section"></div>
+     <script src="https://utteranc.es/client.js"
+             repo="KyaraAvEs/NuxtwithUtteranc"
+             issue-term="pathname"
+             theme="github-dark"
+             crossorigin="anonymous"
+             async>
+     </script>
     <FooterView />
+    
   </div>
   <div class="container" v-else>
     <HeaderView />
@@ -42,3 +62,21 @@ export default {
   </div>
 
 </template>
+
+<style scoped>
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centra el contenido principal */
+  padding: 20px;
+}
+.content {
+  width: 100%;
+  max-width: 800px;
+}
+.comments-section {
+  width: 100%;
+  max-width: 800px;
+  margin-top: 20px;
+}
+</style>
